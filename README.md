@@ -1,4 +1,4 @@
-# TurtleBot3-ROS-Maze-Navigation
+# TurtleBot3 ROS-based Maze Navigation
 This repository includes a ROS package for TurtleBot3 maze navigation project
 
 ## Project Requirements 
@@ -44,3 +44,5 @@ $ roslaunch turtle_7bhan navigation_project1.launch
 
 $ rosrun turtle_7bhan project_poses.py
 ************************************************
+## Contributors
+[Doha ElHady](https://github.com/DohaElHady) - [Mohamed Elahl](https://github.com/MohamedElahl) - [Hassan Mohamed](https://github.com/Hsnmhmd) - [Karim Youssef](https://github.com/KarimYoussef98)
