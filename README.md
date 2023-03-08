@@ -2,7 +2,7 @@
 This repository includes a ROS package for TurtleBot3 maze navigation project
 
 ## Project Requirements 
-Autonomous navigation through lanes built of red tapes and walls, with the objective of reaching picking and placing locations from the robot’s home position by avoiding obstacles and manipulating objects, and finally returning back of the robot to its home..
+Autonomous navigation through lanes built of red tapes and walls, with the objective of reaching picking and placing locations from the robot’s home position by avoiding obstacles and manipulating objects, and finally returning back of the robot to its home.
 
 ## Package Description
 This package deploys the navigation package for SLAM and autonomous navigation with obstacle avoidance. 
